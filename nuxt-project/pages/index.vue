@@ -1,0 +1,4 @@
+<template>
+
+    <BlablaBla></BlablaBla>
+</template>
