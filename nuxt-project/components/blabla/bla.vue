@@ -2,7 +2,7 @@
 async function submit() {
   const res = await $fetch('/api/submit', {
     method: 'post',
-    body: JSON.stringify({ message: 'hello' })
+    body: JSON.stringify({ message: 'tell me a joke' })
   })
   console.log(res);
 }
